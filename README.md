@@ -77,3 +77,18 @@ NavigationView {  // ← Use NavigationView
 ```
 
 Toggle "Use NavigationView" in the app to test this workaround.
+
+
+### Video Examples
+
+#### Not Working
+
+https://github.com/user-attachments/assets/909ba0ef-f5a8-4213-b2fa-3883a1e6885c
+
+#### Working
+https://github.com/user-attachments/assets/179527dc-1400-4770-9a1e-deae70cc5b8f
+
+https://github.com/user-attachments/assets/2fa2c549-9f98-46e8-a3fe-4631f694265e
+
+
+
